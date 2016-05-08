@@ -1,0 +1,51 @@
+Gerrit Page- https://review.openstack.org/#/q/owner:pirsriva,n,z
+
+
+Individual Code Commits <As of May 1, 2016>
+
+Fix rally task verification log
+https://review.openstack.org/#/c/300938/
+
+Fix typo error in docstrings of oslo_config.cfg.py
+https://review.openstack.org/#/c/291722/
+
+Refactored atomic action in authenticate scenario
+https://review.openstack.org/#/c/274882/
+
+Add support for nova service-list
+https://review.openstack.org/#/c/282030/
+
+Expand Nova API benchmark in Rally
+https://review.openstack.org/#/c/280556/
+
+Log VM console when Rally fails to connect to VM
+https://review.openstack.org/#/c/276306/
+
+Restrict deletion of "default" security group
+https://review.openstack.org/#/c/296402/
+
+Show Missing Argument Error raised by Argparse
+https://review.openstack.org/#/c/298349/
+
+Fix validate_args function in cliutils
+https://review.openstack.org/#/c/293569/
+
+De-duplicate consume() for delete in users context
+https://review.openstack.org/#/c/307590/
+
+Use Broker Pattern for Keystone roles context
+https://review.openstack.org/#/c/287788/
+
+IN PROGRESS-
+Add create-flavor and flavor-access-list scenario
+https://review.openstack.org/#/c/302754/
+
+
+LOC- 1375
+
+
+BUGS-
+Filed Bugs- 10
+Resolved Bugs- 8
+
+Blueprints Implemented- 1 (IN PROGRESS)
